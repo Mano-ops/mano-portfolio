@@ -9,6 +9,6 @@ This is my personal portfolio website built using **HTML** and **CSS**. It inclu
 - **Clean & Minimal UI:** Basic styling for a neat look.  
 
 ## 🚀 Live Demo  
-[Link]
+(https://mano-ops.github.io/mano-portfolio/)
 
 Thank you for visiting my Portfolio Website.
