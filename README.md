@@ -1,5 +1,3 @@
-# mano-portfolio
-"A collection of my projects showcasing skills in JavaScript, HTML, CSS Includes web apps, scripts, and experiments in software development. Feel free to explore and contribute!"
 # 🌟 Personal Portfolio Website  
 
 This is my personal portfolio website built using **HTML** and **CSS**. It includes a **Home** page to introduce myself and showcase my work, along with a **Contact** page for easy communication.  
